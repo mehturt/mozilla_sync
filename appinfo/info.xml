@@ -12,5 +12,6 @@
     <!-- Necessary to allow authentication with LDAP user backend. -->
     <types>
        <authentication/>
+       <prelogin/>
     </types>
 </info>
