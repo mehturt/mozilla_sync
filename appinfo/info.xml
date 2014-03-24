@@ -9,9 +9,4 @@
 	<remote>
 	   <mozilla_sync>appinfo/remote.php</mozilla_sync>
 	</remote>
-    <!-- Necessary to allow authentication with LDAP user backend. -->
-    <types>
-       <authentication/>
-       <prelogin/>
-    </types>
 </info>
