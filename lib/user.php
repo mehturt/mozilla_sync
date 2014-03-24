@@ -246,6 +246,8 @@ class User
 	*/
 	private static function checkPassword($userName, $password) {
 
+		// NOTE: Since ownCloud 7 authentication apps are loaded automatically
+
 		// Check if user is allowed to use Mozilla Sync
 		if (self::checkUserIsAllowed($userName) === false) {
 			return false;
