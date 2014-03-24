@@ -1,8 +1,7 @@
 <?php $TRANSLATIONS = array(
 "Failed to delete user" => "Nepavyko ištrinti vartotojo",
 "User not found" => "Vartotojas nerastas",
-"0 is unlimited" => "0 yra neribotas",
-"Installed version" => "Įdiegta versija",
+"Mozilla Sync" => "Mozilla Sync",
 "Email" => "El. Paštas",
 "Password" => "Slaptažodis",
 "Server address" => "Serverio adresas",
